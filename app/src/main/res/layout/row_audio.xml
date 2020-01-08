@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:elevation="2dp"
+    android:clickable="true"
+    android:layout_marginBottom="10dp"
+    >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <ImageView
+            android:id="@+id/iv_row_audio_youssouf"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/youssouf"
+
+            android:layout_alignParentLeft="true"/>
+
+
+        <TextView
+            android:id="@+id/tv_row_audio_titre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textStyle="bold"
+            android:textSize="12sp"
+            android:textColor="@color/colorOr"
+            android:layout_toRightOf="@id/iv_row_audio_youssouf"
+            android:layout_marginHorizontal="20dp"
+            android:layout_centerVertical="true"/>
+
+
+        <ImageView
+            android:id="@+id/iv_row_audio_active"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:src="@drawable/ic_play_arrow_white_24dp"
+            android:layout_alignParentRight="true"
+            android:visibility="gone"/>
+
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

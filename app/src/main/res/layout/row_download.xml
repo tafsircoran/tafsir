@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginBottom="10dp"
+    >
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorOr">
+
+    <ImageView
+        android:id="@+id/iv_row_download_islam"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/islam"/>
+
+
+    <TextView
+        android:id="@+id/tv_row_download_titre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+       android:layout_toRightOf="@id/iv_row_download_islam"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="5dp"/>
+
+
+    <Button
+        android:id="@+id/btn_row_download"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Télécharger"
+        android:textColor="@color/colorOr"
+        android:textStyle="bold"
+        android:textSize="10sp"
+        android:background="@color/colorBleuAzur"
+        android:layout_alignParentRight="true"/>
+
+    </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+

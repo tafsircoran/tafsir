@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "369670628193",
+    "firebase_url": "https://application-tafsir.firebaseio.com",
+    "project_id": "application-tafsir",
+    "storage_bucket": "application-tafsir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369670628193:android:88ed5162d49b0f67e95b20",
+        "android_client_info": {
+          "package_name": "com.example.applicationbon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369670628193-9l508sf6ghpmvaj4383gpreds28fk4oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.applicationbon",
+            "certificate_hash": "b3c7ee57b8728e975c5388b5b82d36a158e7851a"
+          }
+        },
+        {
+          "client_id": "369670628193-5lb63on2im5t10tpgrnf6u6qom79svv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4qa6lNHI2KIWbPF7E_75mcA_95LvTWuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369670628193-5lb63on2im5t10tpgrnf6u6qom79svv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369670628193:android:fdb43a9014049a10e95b20",
+        "android_client_info": {
+          "package_name": "com.example.monapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369670628193-nodeh741mo31n4v9rd05olk4e3mfvuuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monapplication",
+            "certificate_hash": "50be2ad3c6fb51948fa30fe65b7cdbc65b6fe9b4"
+          }
+        },
+        {
+          "client_id": "369670628193-5lb63on2im5t10tpgrnf6u6qom79svv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4qa6lNHI2KIWbPF7E_75mcA_95LvTWuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369670628193-5lb63on2im5t10tpgrnf6u6qom79svv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369670628193:android:7b4dfb8b852ae303e95b20",
+        "android_client_info": {
+          "package_name": "com.traore.abasse.bonapplicationtafsir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369670628193-119hr3ft66u033u2v012n5k485s96ahh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.traore.abasse.bonapplicationtafsir",
+            "certificate_hash": "b197854d84b251b02a67437e429be07cbd75d07a"
+          }
+        },
+        {
+          "client_id": "369670628193-5lb63on2im5t10tpgrnf6u6qom79svv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4qa6lNHI2KIWbPF7E_75mcA_95LvTWuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369670628193-5lb63on2im5t10tpgrnf6u6qom79svv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369670628193:android:d7f76334b79be332e95b20",
+        "android_client_info": {
+          "package_name": "com.traore.abasse.tafsir.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369670628193-dll6lpvfamnm02qmodcpj5nd9pg79gar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.traore.abasse.tafsir.application",
+            "certificate_hash": "b197854d84b251b02a67437e429be07cbd75d07a"
+          }
+        },
+        {
+          "client_id": "369670628193-5lb63on2im5t10tpgrnf6u6qom79svv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4qa6lNHI2KIWbPF7E_75mcA_95LvTWuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369670628193-5lb63on2im5t10tpgrnf6u6qom79svv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
